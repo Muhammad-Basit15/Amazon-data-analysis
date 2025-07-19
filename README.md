@@ -1,6 +1,8 @@
 # Power BI Dashboard: Business Insights Report
 🔍 Project Overview
 This project is a comprehensive Power BI dashboard built using a dataset of over 128,000 rows, aimed at uncovering business insights through clean visuals and interactive elements. The original dataset contained various data quality issues, which were resolved through preprocessing and transformation.
+
+
 ![](Images/1.JPG)
 ## 🧹 Data Cleaning & Preparation
 Cleaned and prepared data using Python (Jupyter Notebook) to handle missing values, incorrect entries, and standardize formats.
@@ -44,4 +46,17 @@ Python (Jupyter Notebook)
 Power Query
 
 Bookmarks & Tooltip Pages
+
+![](Images/2.JPG)
+
+![](Images/3.JPG)
+
+![](Images/4.JPG)
+
+![](Images/5.JPG)
+
+![](Images/6.JPG)
+
+![](Images/7.JPG)
+
 
